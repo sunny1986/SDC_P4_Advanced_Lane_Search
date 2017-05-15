@@ -59,7 +59,7 @@ After camera calibration matrix and distortion coefficients were obtained from p
 
 #### 2. Creating binary image using Color transforms and Sobel gradients
 
-I used a combination of color and gradient thresholds to generate a binary image (gradient thresholding steps at lines 29 through 47 and color thresholding steps at lines 49 through 80 in `image_generator.py`).  Here's an example of my output for this step.  
+I used a combination of color and gradient thresholds to generate a binary image (gradient thresholding steps at lines 29 through 47 and color thresholding steps at lines 49 through 80 in `image_generator.py`.  Here's an example of my output for this step.  
 
 ![alt text][image5]
 <p style="text-align: center;"> Figure 3: Binary Image </p>
