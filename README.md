@@ -16,17 +16,17 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./output_images/calibration1.jpg "To be calibrated"
-[image2]: ./output_images/undistorted.JPG "Undistorted Image"
-[image3]: ./output_images/test4.JPG "Test Image"
-[image4]: ./output_images/undist_test4.JPG "Undistorted Image"
-[image5]: ./output_images/binary_image.JPG "Binary Image"
+[image2]: ./output_images/undistorted.jpg "Undistorted Image"
+[image3]: ./output_images/test4.jpg "Test Image"
+[image4]: ./output_images/undist_test4.jpg "Undistorted Image"
+[image5]: ./output_images/binary_image.jpg "Binary Image"
 [image6]: ./output_images/src.JPG "Source Image"
 [image7]: ./output_images/dst.JPG "Destination Image"
-[image8]: ./output_images/warped_image.JPG "Warped Image"
-[image9]: ./output_images/warped_bin_image.JPG "Warped Binary Image"
-[image10]: ./output_images/hist.JPG "Histogram"
-[image11]: ./output_images/sliding_window.JPG "Sliding Window"
-[image12]: ./output_images/recast.PNG "Recast Image"
+[image8]: ./output_images/warped_image.jpg "Warped Image"
+[image9]: ./output_images/warped_bin_image.jpg "Warped Binary Image"
+[image10]: ./output_images/hist.jpg "Histogram"
+[image11]: ./output_images/sliding_window.jpg "Sliding Window"
+[image12]: ./output_images/recast.png "Recast Image"
 
 
 ### Rubric Points
