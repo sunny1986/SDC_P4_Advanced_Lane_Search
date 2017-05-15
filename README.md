@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/calibration1.JPG "To be calibrated"
+[image1]: ./output_images/calibration1.jpg "To be calibrated"
 [image2]: ./output_images/undistorted.JPG "Undistorted Image"
 [image3]: ./output_images/test4.JPG "Test Image"
 [image4]: ./output_images/undist_test4.JPG "Undistorted Image"
