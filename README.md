@@ -25,7 +25,7 @@ The goals / steps of this project are the following:
 [image8]: ./output_images/warped_image.jpg "Warped Image"
 [image9]: ./output_images/warped_bin_image.jpg "Warped Binary Image"
 [image10]: ./output_images/hist.JPG "Histogram"
-[image11]: ./output_images/sliding_window.jpg "Sliding Window"
+[image11]: ./output_images/sliding_window.JPG "Sliding Window"
 [image12]: ./output_images/recast.png "Recast Image"
 
 
